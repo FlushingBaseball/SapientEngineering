@@ -1,0 +1,3 @@
+# Stack
+Frontend: React + Vite
+
